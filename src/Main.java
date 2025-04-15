@@ -29,7 +29,7 @@ public class Main {
 
         WordCounter wordCounter = new WordCounter();
         Map<String, Integer> wordFrequencies = wordCounter.countWords(text);
-        System.out.println("\nWord Frequencies:");
+        System.out.println("\n----- Word Frequency Count -----");
         wordCounter.displayWordFrequencies(wordFrequencies);
 
         scanner.close();
