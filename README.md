@@ -10,11 +10,11 @@ The workspace contains two folders by default, where:
 - `lib`: the folder to maintain dependencies
 
 ## Run the project
-> Check if Java is installed by "java --version"
-> In terminal go to /src folder "cd src"
-> Run this commands
-> "javac *.java"
-> "java Main" 
+- Check if Java is installed by "java --version"
+- In terminal go to /src folder "cd src"
+- Run this commands
+- "javac *.java"
+- "java Main" 
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
