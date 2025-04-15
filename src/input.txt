@@ -1,0 +1,2 @@
+Java is powerful. Java is easy to learn. Java is platform-independent.
+Java is an object-oriented programming language.
